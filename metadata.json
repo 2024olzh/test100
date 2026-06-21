@@ -1,0 +1,6 @@
+{
+  "name": "교육용 단어 두더지 잡기",
+  "description": "클릭할 단어와 피해야 할 단어를 지정하여 재미있게 학습 효과를 높이는 교육용 두더지 잡기 게임입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
